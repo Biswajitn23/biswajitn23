@@ -7,11 +7,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=false" height="170" alt="stats graph" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitn23&theme=merko&hide_border=false" height="170" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Biswajitn23&theme=merko&hide_border=false&v=1" height="170" alt="streak graph" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=false" height="170" alt="languages graph" />
+</div>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7" height="150" alt="trophy graph" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15" height="150" alt="trophy graph" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitn23&theme=merko&hide_border=false" width="100%" alt="activity-graph graph" />
 </div>
