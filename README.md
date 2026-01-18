@@ -7,14 +7,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=false" height="170" alt="stats graph" />
 
-  <img src="https://streak-stats.demolab.com?user=Biswajitn23&theme=merko&hide_border=false&v=1" height="170" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitn23&theme=merko&hide_border=false&include_all_commits=true" height="170" alt="streak graph" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=false" height="170" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15" height="150" alt="trophy graph" />
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitn23&theme=merko&hide_border=false" width="100%" alt="activity-graph graph" />
 </div>
 
@@ -57,7 +55,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+  <a href="https://www.instagram.com/biswajitgotnochill/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
   <a href="https://discord.com/users/nukleus9251" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
   </a>
