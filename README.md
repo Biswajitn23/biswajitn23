@@ -1,13 +1,13 @@
 <br clear="both">
 
-<h2 align="right">Hi 👋! My name is Biswajit Nayak and I'm a B.Tech CSE Student, from Amity University Chhattisgarh</h2>
+<h2 align="center">Hi 👋! My name is Biswajit Nayak and I'm a B.Tech CSE Student, from Amity University Chhattisgarh</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=false" height="170" alt="stats graph" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitn23&theme=merko&hide_border=false&include_all_commits=true" height="170" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitn23&theme=merko&hide_border=false&include_all_commits=true&v=1" height="170" alt="streak graph" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=false" height="170" alt="languages graph" />
 </div>
