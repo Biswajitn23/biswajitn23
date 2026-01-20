@@ -10,7 +10,7 @@
 
 ### 🏆 **Global Achievements**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15&no-bg=true&rank=SSS,SS,S,AAA,AA,A&v=3" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15&no-bg=true&rank=SSS,SS,S,AAA,AA,A" alt="trophy graph" />
 </div>
 
 ---
@@ -20,17 +20,21 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=true&border_radius=10&v=3" /></td>
-      <td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitn23&theme=merko&hide_border=true&include_all_commits=true&v=3" /></td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=true&border_radius=10" />
+      </td>
+      <td width="50%">
+        <img src="https://streak-stats.demolab.com?user=Biswajitn23&theme=merko&hide_border=true&include_all_commits=true" />
+      </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=true&border_radius=10&v=3" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=true&border_radius=10" height="200" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitn23&theme=merko&hide_border=true&area=true&v=3" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitn23&theme=merko&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
@@ -47,7 +51,7 @@
 
 ---
 
-### 🌐 **Connect In The Matrix**
+### 🌐 **Network Nodes**
 
 <div align="center">
   <a href="https://www.instagram.com/biswajitgotnochill/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
