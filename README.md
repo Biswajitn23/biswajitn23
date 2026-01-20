@@ -8,7 +8,7 @@
 </div>
 
 <h2 align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33B1FF&right=true&width=435&lines=B.Tech+CSE+Student;Amity+University+Chhattisgarh;Full+Stack+Developer;AI+/ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33B1FF&right=true&width=435&lines=B.Tech+CSE+Student;Amity+University+Chhattisgarh;Full+Stack+Developer;AI+/+ML+Enthusiast;Cyber+Security+Learner" alt="Typing SVG" />
 </h2>
 
 <div align="center">
@@ -19,20 +19,18 @@
 
 ---
 
-### 🏆 **GitHub Trophies**
+### 🏆 **Achievements & Trophies**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15&no-bg=true&no-frame=true" alt="trophy graph" />
 </div>
 
 ---
 
-### 📊 **GitHub Analytics**
+### 📊 **Dynamic GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=false" height="170" alt="stats graph" />
-
-  <img src="https://streak-stats.demolab.com?user=Biswajitn23&theme=merko&hide_border=false&include_all_commits=true" height="170" alt="streak graph" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitn23&theme=merko&hide_border=false&include_all_commits=true" height="170" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=false" height="170" alt="languages graph" />
 </div>
 
@@ -44,30 +42,11 @@
 
 ---
 
-### 🛠 **Tech Stack**
-
+### 🛠 **Animated Tech Stack**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,html,css,mysql,git,firebase,opencv,figma,linux,vscode,discord,postman&perline=8" />
+  </a>
 </div>
 
 <br>
@@ -101,7 +80,7 @@
 
 ---
 
-### 🐍 **Contribution Snake**
+### 🐍 **Custom Contribution Snake**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Biswajitn23/Biswajitn23/output/snake.svg" alt="Snake animation" />
