@@ -1,21 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Biswajit%20Nayak&fontSize=90&theme=merko&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Biswajit%20Nayak&fontSize=90&theme=merko&animation=fadeIn" />
+  
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33B1FF&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+/+ML+Enthusiast;Ethical+Hacker+Learner" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33B1FF&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+/+ML+Enthusiast;Cyber+Security+Learner" alt="Typing SVG" />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Biswajitn23&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/Biswajitn23?label=Followers&style=social" />
 </div>
 
 ---
 
-### 🏆 **Global Achievements**
+### 🏆 **Achievements & Milestones**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15&no-bg=true&rank=SSS,SS,S,AAA,AA,A" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15&no-bg=true" alt="trophy graph" />
 </div>
 
 ---
 
-### 📊 **Visual Analytics**
+### 📊 **Live Coding Analytics**
 
 <div align="center">
   <table border="0">
@@ -39,10 +44,10 @@
 
 ---
 
-### 🛠 **Tech Ecosystem**
+### 🛠 **Tech Stack & Toolbox**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,git,firebase,opencv,figma,linux,vscode,discord,postman,github,vercel,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,git,firebase,opencv,figma,linux,vscode,discord,postman,github,vercel,powershell,replit,pycharm,anaconda&theme=dark" />
 </div>
 
 <br>
@@ -51,7 +56,7 @@
 
 ---
 
-### 🌐 **Network Nodes**
+### 🌐 **Connect In The Matrix**
 
 <div align="center">
   <a href="https://www.instagram.com/biswajitgotnochill/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -63,7 +68,7 @@
 
 ---
 
-### 🐍 **Contribution Snake**
+### 🐍 **Live Contribution Snake**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Biswajitn23/Biswajitn23/output/snake.svg" alt="Snake animation" />
@@ -76,5 +81,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&theme=merko" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=merko" />
 </div>
