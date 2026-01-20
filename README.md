@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Biswajit%20Nayak&fontSize=90&theme=merko&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Biswajit%20Nayak&fontSize=90&theme=merko&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -13,14 +13,14 @@
 
 ---
 
-### 🏆 **Global Achievements**
+### 🏆 **Live Global Achievements**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15&no-bg=true" alt="trophy graph" />
 </div>
 
 ---
 
-### 📊 **Visual Analytics**
+### 📊 **Real-time Coding Metrics**
 
 <div align="center">
   <table border="0">
@@ -40,7 +40,7 @@
 
 ---
 
-### 🛠 **My Toolbox**
+### 🛠 **Active Tech Ecosystem**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,git,firebase,opencv,figma,linux,vscode,discord,postman,github,vercel,powershell&theme=dark" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 🌐 **Connect In The Matrix**
+### 🌐 **Network Nodes**
 
 <div align="center">
   <a href="https://www.instagram.com/biswajitgotnochill/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -64,7 +64,7 @@
 
 ---
 
-### 🐍 **Contribution Snake**
+### 🐍 **Live Contribution Snake**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Biswajitn23/Biswajitn23/output/snake.svg" alt="Snake animation" />
@@ -77,5 +77,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=merko" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&theme=merko" />
 </div>
