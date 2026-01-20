@@ -21,7 +21,7 @@
 
 ### 🏆 **Achievements & Trophies**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15&no-bg=true&no-frame=true" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15&rank=SSS,SS,S,AAA,AA,A" alt="trophy graph" />
 </div>
 
 ---
@@ -42,10 +42,10 @@
 
 ---
 
-### 🛠 **Animated Tech Stack**
+### 🛠 **Animated Tech Stack (C Only)**
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,html,css,mysql,git,firebase,opencv,figma,linux,vscode,discord,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,git,firebase,opencv,figma,linux,vscode,discord,postman&perline=8" />
   </a>
 </div>
 
@@ -80,7 +80,7 @@
 
 ---
 
-### 🐍 **Custom Contribution Snake**
+### 🐍 **Contribution Snake**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Biswajitn23/Biswajitn23/output/snake.svg" alt="Snake animation" />
