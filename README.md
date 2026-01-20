@@ -1,92 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Biswajit%20Nayak&fontSize=90&theme=merko" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Biswajit%20Nayak&fontSize=90&theme=merko&animation=twinkling" />
+  
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=33B1FF&center=true&vCenter=true&width=500&lines=Establishing+Secure+Connection...;B.Tech+CSE+Student;Full+Stack+Developer;AI+/+ML+Researcher;Ethical+Hacker;System+Online..." alt="Typing SVG" />
 </div>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Biswajitn23&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Biswajitn23&label=Network%20Hits&color=0e75b6&style=flat-square" alt="Views" />
   <img src="https://img.shields.io/github/followers/Biswajitn23?label=Followers&style=social" />
-</div>
-
-<h2 align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33B1FF&right=true&width=435&lines=B.Tech+CSE+Student;Amity+University+Chhattisgarh;Full+Stack+Developer;AI+/+ML+Enthusiast" alt="Typing SVG" />
-</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/University-Amity%20University-blue?style=flat-square&logo=academia" />
-  <img src="https://img.shields.io/badge/Course-B.Tech%20CSE-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Chhattisgarh%2C%20India-green?style=flat-square&logo=googlemaps" />
 </div>
 
 ---
 
-### 📊 **GitHub Analytics**
+### 🌐 **Live Ecosystem**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,git,firebase,opencv,figma,linux,vscode,discord,postman,github,vercel,powershell&perline=9&theme=dark" />
+</div>
+
+---
+
+### 📊 **Real-Time Data Streams**
 
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=true" /></td>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=true" /></td>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=true&border_radius=10" /></td>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=true&border_radius=10" height="170" /></td>
     </tr>
   </table>
-  
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitn23&theme=merko&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
 
-### 🛠 **Tech Stack**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-</div>
-
-<br>
+### ⚙️ **Current Operation**
 
 <img align="right" height="150" src="https://image2url.com/r2/bucket2/gifs/1767882764647-9e348ace-5117-40b4-8721-08f975b99414.gif" />
 
+<div align="left">
+  💻 <b>Currently coding:</b> Custom Portfolio<br>
+  🚀 <b>Exploring:</b> Machine Learning Paradigms<br>
+  🧠 <b>Learning:</b> Advanced Penetration Testing<br>
+  💬 <b>Ask me about:</b> Web Dev & Ethical Hacking
+</div>
+
 ---
 
-### 🌐 **Connect with Me**
+### 🌐 **Connect In The Matrix**
 
 <div align="left">
-  <a href="https://www.instagram.com/biswajitgotnochill/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.com/users/nukleus9251" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:nbiswajit@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/biswajit-nayak-9a0b97321" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/biswajitn2304" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-  <a href="https://t.me/Nukleus_op" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" alt="telegram logo" />
-  </a>
+  <a href="https://www.instagram.com/biswajitgotnochill/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/users/nukleus9251" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:nbiswajit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/biswajit-nayak-9a0b97321" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/biswajitn2304" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
 ---
@@ -104,5 +74,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&theme=merko" />
 </div>
