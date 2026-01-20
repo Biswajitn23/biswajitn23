@@ -4,10 +4,11 @@
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Biswajitn23&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://img.shields.io/github/followers/Biswajitn23?label=Followers&style=social" />
 </div>
 
 <h2 align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33B1FF&right=true&width=435&lines=B.Tech+CSE+Student;Amity+University+Chhattisgarh;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33B1FF&right=true&width=435&lines=B.Tech+CSE+Student;Amity+University+Chhattisgarh;Full+Stack+Developer;Ethical+Hacking+Enthusiast" alt="Typing SVG" />
 </h2>
 
 <div align="center">
@@ -18,12 +19,19 @@
 
 ---
 
+### 🏆 **GitHub Trophies**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15" alt="trophy graph" />
+</div>
+
+---
+
 ### 📊 **GitHub Analytics**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=false" height="170" alt="stats graph" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitn23&theme=merko&hide_border=false&include_all_commits=true&v=1" height="170" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Biswajitn23&theme=merko&hide_border=false&include_all_commits=true" height="170" alt="streak graph" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=false" height="170" alt="languages graph" />
 </div>
