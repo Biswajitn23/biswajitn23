@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Biswajit%20Nayak&fontSize=90&theme=merko" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Biswajit%20Nayak&fontSize=90&theme=merko" />
 </div>
 
 <div align="right">
@@ -21,7 +21,7 @@
 
 ### 🏆 **Achievements & Trophies**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15&rank=SSS,SS,S,AAA,AA,A" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitn23&theme=matrix&column=7&margin-w=15" alt="trophy graph" />
 </div>
 
 ---
@@ -42,10 +42,10 @@
 
 ---
 
-### 🛠 **Animated Tech Stack (C Only)**
+### 🛠 **Tech Stack**
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,git,firebase,opencv,figma,linux,vscode,discord,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,git,firebase,opencv,figma,linux,vscode,discord,postman&theme=dark" />
   </a>
 </div>
 
@@ -93,5 +93,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
 </div>
