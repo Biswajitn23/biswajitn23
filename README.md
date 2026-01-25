@@ -33,7 +33,7 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitn23&theme=merko&hide_border=true&area=true" width="100%" />
 </div>
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitn23" width = "100%"/>
 ---
 
 ### ⚙️ **Current Operation**
