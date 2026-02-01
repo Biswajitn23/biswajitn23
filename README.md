@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=Biswajit%20Nayak&fontSize=90&theme=merko&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00FFFF&height=220&section=header&text=Biswajit%20Nayak&fontSize=90&theme=merko&animation=twinkling" />
   
   <br>
 
@@ -26,8 +26,12 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=false&border_radius=10" /></td>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=false&border_radius=10" height="170" /></td>
+      <td width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=false&border_radius=10" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=false&border_radius=10" height="170" />
+      </td>
     </tr>
   </table>
   <br>
@@ -74,5 +78,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer&theme=merko" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00FFFF&height=100&section=footer&theme=merko" />
 </div>
