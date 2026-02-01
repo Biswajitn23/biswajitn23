@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00FFFF&height=220&section=header&text=Biswajit%20Nayak&fontSize=90&theme=merko&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=Biswajit%20Nayak&fontSize=90&theme=rose_pine&animation=twinkling" />
   
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=33B1FF&center=true&vCenter=true&width=500&lines=Establishing+Secure+Connection...;B.Tech+CSE+Student;Full+Stack+Developer;AI+/+ML+Researcher;System+Online..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=Establishing+Secure+Connection...;B.Tech+CSE+Student;Full+Stack+Developer;AI+/+ML+Researcher;System+Online..." alt="Typing SVG" />
 </div>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Biswajitn23&label=Network%20Hits&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Biswajitn23&label=Network%20Hits&color=FF0000&style=flat-square" alt="Views" />
   <img src="https://img.shields.io/github/followers/Biswajitn23?label=Followers&style=social" />
 </div>
 
@@ -27,15 +27,15 @@
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=merko&hide_border=false&border_radius=10" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=rose_pine&hide_border=false&border_radius=10&title_color=FF0000&icon_color=FF0000" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=merko&hide_border=false&border_radius=10" height="170" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Biswajitn23&layout=compact&theme=rose_pine&hide_border=false&border_radius=10&title_color=FF0000" height="170" />
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitn23&theme=merko&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitn23&theme=rose_pine&hide_border=true&area=true&color=FF0000" width="100%" />
 </div>
 
 ---
@@ -46,9 +46,9 @@
 
 <div align="left">
   💻 <b>Currently coding:</b> Custom Portfolio<br>
-  🚀 <b>Exploring:</b> Machine Learning Paradigms<br>
-  🧠 <b>Learning:</b> Advanced Penetration Testing<br>
-  💬 <b>Ask me about:</b> Web Dev & Ethical Hacking
+  🚀 <b>Exploring:</b> Machine Learning<br>
+  🧠 <b>Learning:</b> DSA $ ML<br>
+  💬 <b>Ask me about:</b> Web Dev
 </div>
 
 ---
@@ -74,9 +74,9 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine&cache_seconds=0" alt="Refreshing Quote" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00FFFF&height=100&section=footer&theme=merko" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer&theme=rose_pine&reversal=true" />
 </div>
