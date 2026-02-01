@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=Biswajit%20Nayak&fontSize=90&theme=rose_pine&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=Biswajit%20Nayak&fontSize=90&theme=rose_pine&animation=twinkling&fontColor=FFFFFF" />
   
   <br>
 
@@ -47,7 +47,7 @@
 <div align="left">
   💻 <b>Currently coding:</b> Custom Portfolio<br>
   🚀 <b>Exploring:</b> Machine Learning<br>
-  🧠 <b>Learning:</b> DSA $ ML<br>
+  🧠 <b>Learning:</b> DSA & ML<br>
   💬 <b>Ask me about:</b> Web Dev
 </div>
 
