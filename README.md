@@ -13,7 +13,7 @@
 
 ---
 
-### 🌐 **Live Ecosystem**
+### **Live Ecosystem**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,git,firebase,opencv,figma,linux,vscode,discord,postman,github,vercel,powershell&perline=9&theme=dark" />
@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 **Real-Time Data Streams**
+### **Real-Time Data Streams**
 
 <div align="center">
   <table border="0">
@@ -45,15 +45,15 @@
 <img align="right" height="150" src="https://image2url.com/r2/bucket2/gifs/1767882764647-9e348ace-5117-40b4-8721-08f975b99414.gif" />
 
 <div align="left">
-  💻 <b>Currently coding:</b> Custom Portfolio<br>
-  🚀 <b>Exploring:</b> Machine Learning<br>
-  🧠 <b>Learning:</b> DSA & ML<br>
-  💬 <b>Ask me about:</b> Web Dev
+  <b>Currently coding:</b> Custom Portfolio<br>
+  <b>Exploring:</b> Machine Learning<br>
+  <b>Learning:</b> DSA & ML<br>
+  <b>Ask me about:</b> Web Dev
 </div>
 
 ---
 
-### 🌐 **Connect In The Matrix**
+### **Connect In The Matrix**
 
 <div align="left">
   <a href="https://www.instagram.com/biswajitgotnochill/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -65,7 +65,7 @@
 
 ---
 
-### 🐍 **Contribution Snake**
+### **Contribution Snake**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Biswajitn23/Biswajitn23/output/snake.svg" alt="Snake animation" />
